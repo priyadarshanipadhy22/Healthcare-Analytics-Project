@@ -142,6 +142,6 @@ Analysis includes:
 
 ## 👨‍💻 Author
 
-**Gopal Krushna Parida**
+**PRIYADARSHANI PADHY**
 
 MCA Graduate | Data Analyst
